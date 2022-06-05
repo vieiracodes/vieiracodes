@@ -1,4 +1,4 @@
-# Olá! Meu nome é Gabriel Vieira, um aspirante a Front-End 💻
+# Olá! Meu nome é Gabriel Vieira e sou um aspirante a Front-End 💻
 
 <div align='center'>
   <a href="https://github.com/vieiracodes">
