@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/vieiracodes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieiracodes&show_icons=true&theme=cobalt&bg_color=DEG,051529,102540&title_color=3FD1EB&text_color=34FFCA&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiracodes&layout=compact&langs_count=7&theme=cobalt&bg_color=DEG,102540,051529&title_color=3FD1EB&text_color=34FFCA"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vieiracodes&show_icons=true&theme=cobalt&bg_color=DEG,051529,102540&title_color=3FD1EB&text_color=34FFCA&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiracodes&layout=compact&langs_count=7&theme=cobalt&bg_color=DEG,102540,051529&title_color=3FD1EB&text_color=34FFCA"/>
 </div>
