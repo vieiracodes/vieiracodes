@@ -35,7 +35,7 @@
 #
   
 <div align='end'>
-    <a href='https://github.com/vieiracodes'><img src='https://cdn.discordapp.com/attachments/893932697473409026/983134863613915136/logo-vieiracodes.png' target:'_blank' height = 100 align = 'left'></a>
+    <a href='https://github.com/vieiracodes'><img src='logo-vieiracodes.svg' target:'_blank' height = 100 align = 'left'></a>
   <br>
   <br>
     <a href="https://www.linkedin.com/in/vieirafront-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
