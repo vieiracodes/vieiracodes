@@ -1,20 +1,5 @@
 # Olá! Meu nome é Gabriel Vieira, um aspirante a Front-End 💻
 
-<!--
-**vieiracodes/vieiracodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align='center'>
   <a href="https://github.com/vieiracodes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vieiracodes&show_icons=true&theme=cobalt&bg_color=DEG,051529,102540&text_color=34FFCA&title_color=3FD1EB&include_all_commits=true&count_private=true"/>
@@ -50,6 +35,9 @@ Here are some ideas to get you started:
 #
   
 <div align='end'>
+    <a href='https://github.com/vieiracodes'><img src='https://cdn.discordapp.com/attachments/893932697473409026/983134863613915136/logo-vieiracodes.png' target:'_blank' height = 100 align = 'left'></a>
+  <br>
+  <br>
     <a href="https://www.linkedin.com/in/vieirafront-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielvieiranovaes5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C20C00?style=for-the-badge&logo=gmail&logoColor=white&" target="_blank"></a>
 </div>
