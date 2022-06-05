@@ -1,4 +1,4 @@
-# Olá! Meu nome é Gabriel Vieira, um aspirante a Front-End :pager:
+# Olá! Meu nome é Gabriel Vieira, um aspirante a Front-End 🗔
 
 <!--
 **vieiracodes/vieiracodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
