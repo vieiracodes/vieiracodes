@@ -23,11 +23,12 @@
 ### 📖 Estudando:
 <div>
   <a href="https://github.com/vieiracodes">
-  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853D'/>
-  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC'/>
   <img src='https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB'/>
-  <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031'/>
+  <img src='https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white'/>
   <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC'/>
+  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC'/>
+  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853D'/>
+  <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031'/>
   </a>
 </div>
   
