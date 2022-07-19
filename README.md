@@ -12,9 +12,9 @@
 ### 💡 Tecnologias:
 <div style='display:flex; align-content:space-between;'>
   <a href="https://github.com/vieiracodes">
-  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E'/>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26'/>
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6'/>
+  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E'/>
   <img src='https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB'/>
   </a>
 </div>
