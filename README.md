@@ -1,4 +1,5 @@
-# Olá! Meu nome é Gabriel Vieira e sou um aspirante a Front-End 💻
+<h1>Olá, meu nome é Gabriel Vieira! 👋</h1>
+
 
 <div align='center'>
   <a href="https://github.com/vieiracodes">
@@ -9,7 +10,7 @@
   
 ##
   
-### 💡 Tecnologias:
+<h3>💡 Tecnologias:</h3>
 <div style='display:flex; align-content:space-between;'>
   <a href="https://github.com/vieiracodes">
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26'/>
@@ -22,7 +23,7 @@
   
 ##
   
-### 📖 Estudando:
+<h3>📖 Estudando:</h3>
 <div>
   <a href="https://github.com/vieiracodes">
   <img src='https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white'/>
